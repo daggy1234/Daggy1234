@@ -1,12 +1,12 @@
 
 # It's a me Daggy
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
-  <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
-</a>
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![shrug](https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square)
  ----
 
 ### I do stuff
+
+~~I'm also very old~~
 
 -----
 
@@ -26,7 +26,7 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 | Serverless | Cloud functions, firebase and container runtimes |
 | Design | I can use UI libraries|
 
----
+-----
 
 #### Top Projects:
 
@@ -59,12 +59,12 @@ I too am extraordinarily humble
 </a>
 </details>
   
----
+-----
 
-#### My Stats!
+#### My Stats
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -97,11 +97,9 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 ```
 
-
-
 <!--END_SECTION:waka-->
 
----
+-----
 
 Contact Info:
 
