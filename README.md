@@ -26,6 +26,12 @@ Skills:
 </a>
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 Feel free to chat with me on discord.
 -----
 Have a Great Day!
