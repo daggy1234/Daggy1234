@@ -32,13 +32,13 @@ Skills:
 
 **🐱 My GitHub Data** 
 
-> 🏆 219 Contributions in year 2020
+> 🏆 222 Contributions in year 2020
  > 
 > 📦 Used 241.5 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 6 Owned Private Repositories 
 
