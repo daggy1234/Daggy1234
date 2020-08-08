@@ -28,6 +28,37 @@ Skills:
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 219 Contributions in year 2020
+ > 
+> 📦 Used 241.5 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 6 Owned Private Repositories 
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kolkata
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ---
