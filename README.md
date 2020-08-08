@@ -28,11 +28,9 @@ Skills:
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 222 Contributions in year 2020
+> 🏆 224 Contributions in year 2020
  > 
 > 📦 Used 241.5 kB in GitHub's Storage 
  > 
