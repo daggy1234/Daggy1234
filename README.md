@@ -30,7 +30,7 @@ Skills:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 224 Contributions in year 2020
+> 🏆 228 Contributions in year 2020
  > 
 > 📦 Used 241.5 kB in GitHub's Storage 
  > 
@@ -46,13 +46,16 @@ Skills:
 ⌚︎ Timezone: Asia/Kolkata
 
 💬 Languages: 
-No Activity tracked this Week
+TypeScript               9 mins              ███████████████████████░░   93.76% 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🔥 Editors: 
-No Activity tracked this Week
+VS Code                  10 mins             ███████████████████████░░   95.18% 
+PyCharm                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
 
 💻 Operating Systems: 
-No Activity tracked this Week
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
