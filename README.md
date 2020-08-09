@@ -30,7 +30,7 @@ Skills:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 245 Contributions in year 2020
+> 🏆 247 Contributions in year 2020
  > 
 > 📦 Used 241.5 kB in GitHub's Storage 
  > 
