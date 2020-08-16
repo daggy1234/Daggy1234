@@ -28,35 +28,35 @@ Skills:
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 286 Contributions in 2020
+> 🏆 286 Contributions in the year 2020
  > 
-> 📦 Used 241.5 kB in GitHub's Storage 
+> 📦 241.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 17 Public repositories
  > 
-> 🔑 6 Owned Private Repositories 
+> 🔑 6 Private repositories 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
+💬 Programming Languages: 
 JSX                      12 hrs 24 mins      █████████████░░░░░░░░░░░░   54.26% 
 TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
 JavaScript               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
 Docker                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
 JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  22 hrs 47 mins      █████████████████████████   99.75% 
 PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  22 hrs 51 mins      █████████████████████████   99.98% 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
