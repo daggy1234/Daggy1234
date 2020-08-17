@@ -32,7 +32,7 @@ Skills:
 
 > 🏆 287 Contributions in the year 2020
  > 
-> 📦 241.5 kB Used in Github's Storage 
+> 📦 241.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
