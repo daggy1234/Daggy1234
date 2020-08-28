@@ -30,13 +30,13 @@ Skills:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 300 Contributions in the Year 2020
+> 🏆 299 Contributions in the Year 2020
  > 
 > 📦 241.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories
+> 📜 19 Public Repositories
  > 
 > 🔑 6 Private Repositories 
 
