@@ -28,18 +28,6 @@ Skills:
 ---
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 302 Contributions in the Year 2020
- > 
-> 📦 241.9 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories
- > 
-> 🔑 6 Private Repositories 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -61,6 +49,17 @@ Windows                  18 hrs 44 mins      ███████████�
 Linux                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ██████████████░░░░░░░░░░░   58.82% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+
+```
+
 
 
 <!--END_SECTION:waka-->
