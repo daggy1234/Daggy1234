@@ -14,9 +14,10 @@ Skills:
 
 - Web Develpment with React.js
 - Machine learning with Sckit-learn
-- API with FastAPI
+- API with Rust,Deno,Node,Python
 - Discord bots with dpy
 - Dockerizing Apps
+- Full Stack MERN
 
 -----
 <a href="https://github.com/Daggy1234">
