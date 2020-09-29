@@ -67,6 +67,6 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 ---
 
-Feel free to chat with me on discord.
+Feel free to chat with me on discord. Or Raise an issue on this Repo!
 -----
 Have a Great Day!
