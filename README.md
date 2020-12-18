@@ -54,6 +54,8 @@ A high schooler from India with a passion for full stack development.I love pyth
   
 ---
 
+#### My Stats!
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
