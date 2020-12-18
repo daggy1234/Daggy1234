@@ -6,26 +6,52 @@
 </a>
  ----
 
-A high schooler from India with a passion for full stack development.I love python and Js seems to be my new love. 
+A high schooler from India with a passion for full stack development.I love python, rust and Js. 
 
 -----
 
-Skills:
+#### Skills
 
-- Web Develpment with React.js
-- Machine learning with Sckit-learn
-- API with Rust,Deno,Node,Python
-- Discord bots with dpy
-- Dockerizing Apps
-- Full Stack MERN
+| Skill | Description |
+| ----- | ----------- |
+| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Gatsby Frontend
+| Machine Learning | Non deep machine learning with sklearn |
+| Microservices | Microservices in rust python Js (deno and node) |
+| Databases | Normalization, Queries with PostgreSQL, Maria, Mongo and Fauna |
+| Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
+| Docker | Skilled Containerization of workloads |
+| Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
+| Design | Nothing |
+
+---
+
+#### Top Projects:
+<details>
+  <summary>Top Projects!</summary>
+    
+   - [Dagpi](https://dagpi.xyz) : Full stack api built with rust, postgres, redis, python and typescript with Full frontend dashboard and  full monitoring. Also 2 api wrappers for it.
+    
+   - [Dagbot](https://dagbot.daggy.tech): discord bot with website and feedback along with large fully customisable interface using Postgres and discord.py
+    
+   - [R.Daggy](https://github.com/Daggy1234/r/daggy): Private discord bot for my server with rust
+    
+   - [New York Pizza](https://github.com/Daggy1234/NewYorkPizza): A data science study that uses Data analysis and ML to predict the best place to open a pizza shop
+ 
+</details>
 
 -----
+
+#### Github Stats
+
+<details>
+  <summary>Stats</summary>
 <a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
 </a><a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html" />
 </a>
-
+</details>
+  
 ---
 
 <!--START_SECTION:waka-->
