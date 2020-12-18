@@ -1,12 +1,12 @@
 
-### It's a me Daggy
+# It's a me Daggy
 
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689)<a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
 </a>
  ----
 
-A high schooler from India with a passion for full stack development.I love python, rust and Js. 
+### A high schooler from India with a passion for full stack development.I love python, rust and Js. 
 
 -----
 
@@ -98,6 +98,12 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 ---
 
-Feel free to chat with me on discord. Or Raise an issue on this Repo!
+Contact Info:
+
+- Discord: `Daggy#1234`
+- Server: https://server.daggy.tech
+- Email: daggy@daggy.tech
+- Issue on this repo
+
 -----
 Have a Great Day!
