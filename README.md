@@ -1,16 +1,18 @@
 
 # It's a me Daggy
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689)<a href="https://github.com/Daggy1234">
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
   <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
 </a>
  ----
 
-### A high schooler from India with a passion for full stack development.I love python, rust and Js. 
+### I do stuff
 
 -----
 
 #### Skills
+
+Please do not send me more spam job emails. I want to work at Mcdonalds.
 
 | Skill | Description |
 | ----- | ----------- |
@@ -26,6 +28,8 @@
 ---
 
 #### Top Projects:
+
+None of them are good, but ¯\_(ツ)_/¯
 <details>
   <summary>Top Projects!</summary>
     
@@ -42,6 +46,8 @@
 -----
 
 #### Github Stats
+
+I too am extraordinarily humble
 
 <details>
   <summary>Stats</summary>
