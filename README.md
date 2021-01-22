@@ -69,14 +69,13 @@ I too am extraordinarily humble
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     48 mins             █████████████████████░░░░   83.92% 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
