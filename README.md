@@ -37,7 +37,7 @@ None of them are good, but ¯\_(ツ)_/¯
     
    - [Dagbot](https://dagbot.daggy.tech): discord bot with website and feedback along with large fully customisable interface using Postgres and discord.py
     
-   - [R.Daggy](https://github.com/Daggy1234/r/daggy): Private discord bot for my server with rust
+   - [R.Daggy](https://github.com/Daggy1234/r.daggy): Private discord bot for my server with rust
     
    - [New York Pizza](https://github.com/Daggy1234/NewYorkPizza): A data science study that uses Data analysis and ML to predict the best place to open a pizza shop
  
