@@ -19,11 +19,12 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 | Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Gatsby Frontend
 | Machine Learning | Non deep machine learning with sklearn |
 | Microservices | Microservices in rust python Js (deno and node) |
-| Databases | Normalization, Queries with PostgreSQL, Maria, Mongo and Fauna |
+| Databases | Normalization, Queries with PostgreSQL,Timescale, Cockroach,  Maria, Mongo, redis and Fauna |
 | Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
 | Docker | Skilled Containerization of workloads |
 | Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
-| Design | Nothing |
+| Serverless | Cloud functions, firebase and container runtimes |
+| Design | I can use UI libraries|
 
 ---
 
