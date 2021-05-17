@@ -8,6 +8,7 @@
 
 ~~I'm also very old~~
 
+## he/him or they/them. But feel free to use other pronouns as well
 
 -----
 
