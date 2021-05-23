@@ -1,7 +1,7 @@
 
 # It's a me Daggy
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![shrug](https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square)
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
 
 ### I do stuff
