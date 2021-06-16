@@ -117,6 +117,7 @@ Contact Info:
 - Server: https://server.daggy.tech
 - Email: daggy@daggy.tech
 - Issue on this repo
+- Gpg Key: [Key](https://github.com/daggy1234.gpg)
 
 -----
 Have a Great Day!
