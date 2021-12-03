@@ -72,7 +72,7 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -99,7 +99,7 @@ Linux                    6 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   33.93% 
+Python                   20 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
 TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Rust                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
