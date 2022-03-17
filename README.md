@@ -72,22 +72,19 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2046%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     2 hrs               █████████████████████████   99.91% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,7 +101,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 18:14:56 UTC
+ Last Updated on 17/03/2022 19:11:56 UTC
 <!--END_SECTION:waka-->
 
 -----
