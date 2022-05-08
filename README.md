@@ -66,9 +66,9 @@ I too am extraordinarily humble
 <details>
   <summary>Stats</summary>
 <a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true&count_private=true" />
 </a><a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html,jupyter%20notebook&count_private=true" />
 </a><a href="https://github.com/Daggy1234">
  <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/overview.svg" />
 </a><a href="https://github.com/Daggy1234">
