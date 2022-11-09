@@ -81,7 +81,7 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -116,7 +116,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 17:18:42 UTC
+ Last Updated on 09/11/2022 18:16:45 UTC
 <!--END_SECTION:waka-->
 
 -----
