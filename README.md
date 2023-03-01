@@ -81,7 +81,7 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -117,7 +117,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2023 23:11:19 UTC
+ Last Updated on 01/03/2023 01:03:43 UTC
 <!--END_SECTION:waka-->
 
 -----
