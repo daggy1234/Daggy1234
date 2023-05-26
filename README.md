@@ -89,15 +89,13 @@ I too am extraordinarily humble
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 mins             ███████████████████████░░   92.87 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +111,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 19:07:41 UTC
+ Last Updated on 26/05/2023 20:10:08 UTC
 <!--END_SECTION:waka-->
 
 -----
