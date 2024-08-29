@@ -1,7 +1,7 @@
 
 # It's a me Daggy
 
-[Portfolio Website](https://daggy.tech)
+[Portfolio Website](https://dag.gy)
 
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
 
