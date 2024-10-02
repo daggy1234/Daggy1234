@@ -89,14 +89,13 @@ I too am extraordinarily humble
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 58 mins        ███████████████████████░░   93.38 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +111,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 04:15:47 UTC
+ Last Updated on 02/10/2024 05:12:47 UTC
 <!--END_SECTION:waka-->
 
 -----
