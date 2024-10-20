@@ -5,7 +5,7 @@
 
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
 
-#### he/they. 
+#### he/him. 
 
  ----
 
