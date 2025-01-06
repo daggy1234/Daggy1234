@@ -83,6 +83,23 @@ I too am extraordinarily humble
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C684%20hrs%2015%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+TypeScript               1 hr 22 mins        █████████████████░░░░░░░░   69.88 % 
+Python                   34 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+
+🔥 Editors: 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -96,7 +113,7 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 06:19:06 UTC
+ Last Updated on 06/01/2025 07:13:07 UTC
 <!--END_SECTION:waka-->
 
 -----
