@@ -81,7 +81,7 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -117,7 +117,7 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 03:08:03 UTC
+ Last Updated on 30/05/2025 04:19:02 UTC
 <!--END_SECTION:waka-->
 
 -----
