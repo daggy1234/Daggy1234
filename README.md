@@ -81,7 +81,7 @@ I too am extraordinarily humble
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -89,13 +89,14 @@ I too am extraordinarily humble
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             █████████████████░░░░░░░░   67.90 % 
+Java                     4 mins              ████████░░░░░░░░░░░░░░░░░   32.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +112,7 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 04:17:37 UTC
+ Last Updated on 27/08/2025 05:13:54 UTC
 <!--END_SECTION:waka-->
 
 -----
