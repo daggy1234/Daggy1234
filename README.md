@@ -1,17 +1,7 @@
 
 # It's a me Daggy
 
-[Portfolio Website](https://dag.gy)
-
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
-
-#### he/him. 
-
- ----
-
-### I do stuff
-
-~~I'm also very old (check my account's first commit)~~
+https://dag.gy
 
 -----
 
@@ -60,8 +50,6 @@
 -----
 
 #### Github Stats
-
-I too am extraordinarily humble
 
 <details>
   <summary>Stats</summary>
@@ -121,9 +109,8 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 Contact Info:
 
-- Discord: `Daggy#1234`
-- Server: https://server.daggy.tech
-- Email: daggy@daggy.tech
+- Discord: `daggy1234`
+- Email: contact@arnavjindal.xyz
 - Issue on this repo
 - Gpg Key: [Key](https://github.com/daggy1234.gpg)
 
