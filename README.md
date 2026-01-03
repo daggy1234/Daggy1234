@@ -69,6 +69,8 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2016%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -97,7 +99,7 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 05:16:42 UTC
+ Last Updated on 03/01/2026 06:23:55 UTC
 <!--END_SECTION:waka-->
 
 -----
