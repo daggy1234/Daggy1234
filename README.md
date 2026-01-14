@@ -69,7 +69,7 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C823%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,13 +77,17 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      36 mins             ████████████████░░░░░░░░░   64.44 % 
+C                        13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Makefile                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             ██████████████████████░░░   89.13 % 
+CLion                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +103,7 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2026 05:19:51 UTC
+ Last Updated on 14/01/2026 06:27:03 UTC
 <!--END_SECTION:waka-->
 
 -----
