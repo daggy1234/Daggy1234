@@ -69,6 +69,8 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C829%20hrs%2013%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -101,7 +103,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 05:59:16 UTC
+ Last Updated on 02/02/2026 07:08:28 UTC
 <!--END_SECTION:waka-->
 
 -----
