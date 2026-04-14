@@ -69,7 +69,7 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -89,17 +89,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Rust                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Standard ML              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   40 repos            █████████░░░░░░░░░░░░░░░░   35.40 % 
+TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Standard ML              2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 
 
 
- Last Updated on 14/04/2026 02:02:46 UTC
+ Last Updated on 14/04/2026 05:17:47 UTC
 <!--END_SECTION:waka-->
 
 -----
