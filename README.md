@@ -69,7 +69,7 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,13 +77,16 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 5 mins         ███████████████░░░░░░░░░░   60.06 % 
+Python                   41 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 30 mins        █████████████████████░░░░   83.16 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +102,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 03:24:16 UTC
+ Last Updated on 11/06/2026 08:39:08 UTC
 <!--END_SECTION:waka-->
 
 -----
