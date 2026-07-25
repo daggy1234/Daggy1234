@@ -69,25 +69,27 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C001%20hrs%204%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
-Other                    3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Python                   3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Rust                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.23 % 
+Rust                     4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Python                   4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Other                    3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+TOML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 37 mins      ██████████████░░░░░░░░░░░   54.95 % 
-Codex CLI                4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Claude Code              4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+VS Code                  10 hrs 4 mins       ███████████░░░░░░░░░░░░░░   44.58 % 
+Codex CLI                8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+Claude Code              4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
 
 💻 Operating System: 
-Mac                      19 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +105,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 05:38:01 UTC
+ Last Updated on 25/07/2026 07:57:45 UTC
 <!--END_SECTION:waka-->
 
 -----
