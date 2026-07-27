@@ -69,7 +69,9 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,6 +94,30 @@ Claude Code              2 hrs 43 mins       ███░░░░░░░░�
 Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 50 mins (97.7%)
+
+✍️ 18,921 lines written by AI, 5 lines written by hand (99.97% AI-written)
+
+🔤 398,223,533 Input Tokens, 1,445,320 Output Tokens
+
+💵 $1790.84 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 198 AI Prompts
+
+GPT                      18,763 lines        ████████████████████████░   97.82 % 
+Fable                    290 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Opus                     129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 8,651 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -105,7 +131,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 13:35:05 UTC
+ Last Updated on 27/07/2026 16:11:18 UTC
 <!--END_SECTION:waka-->
 
 -----
