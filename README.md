@@ -69,7 +69,7 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C005%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,19 +77,19 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Rust                     6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Python                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-TOML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.69 % 
+Rust                     6 hrs               ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Other                    3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Python                   2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+TOML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Codex CLI                11 hrs 28 mins      █████████████░░░░░░░░░░░░   53.29 % 
-VS Code                  7 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.02 % 
-Claude Code              2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Codex CLI                12 hrs 25 mins      ███████████████░░░░░░░░░░   61.13 % 
+VS Code                  5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Claude Code              2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 
 💻 Operating System: 
-Mac                      21 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 06:22:52 UTC
+ Last Updated on 27/07/2026 10:36:25 UTC
 <!--END_SECTION:waka-->
 
 -----
