@@ -69,6 +69,55 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2016%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Rust                     6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Markdown                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+TOML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+
+🔥 Editors: 
+Codex CLI                12 hrs 47 mins      █████████████████░░░░░░░░   68.36 % 
+VS Code                  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Claude Code              2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+
+💻 Operating System: 
+Mac                      18 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 28 mins (98.71%)
+
+✍️ 19,306 lines written by AI, 5 lines written by hand (99.97% AI-written)
+
+🔤 364,281,393 Input Tokens, 1,312,976 Output Tokens
+
+💵 $1706.71 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 188 AI Prompts
+
+GPT                      19,414 lines        █████████████████████████   99.21 % 
+Opus                     129 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Fable                    25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 10,634 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -82,7 +131,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 05:41:11 UTC
+ Last Updated on 28/07/2026 08:23:41 UTC
 <!--END_SECTION:waka-->
 
 -----
