@@ -79,42 +79,40 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Markdown                 4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TOML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Rust                     4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.26 % 
+Markdown                 3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Python                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Codex CLI                12 hrs 47 mins      █████████████████████░░░░   82.58 % 
-VS Code                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Claude Code              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Codex CLI                9 hrs 15 mins       █████████████████████░░░░   82.13 % 
+VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
 
 💻 Operating System: 
-Mac                      15 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 16 mins (98.55%)
+⏱ AI Coding Time: 11 hrs 4 mins (98.19%)
 
-✍️ 19,152 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 17,380 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 336,577,032 Input Tokens, 1,183,311 Output Tokens
+🔤 272,469,040 Input Tokens, 952,069 Output Tokens
 
-💵 $1594.97 Estimated AI Cost This Week
+💵 $1241.37 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 159 AI Prompts
+🧠 13 AI Sessions, 133 AI Prompts
 
-GPT                      19,414 lines        █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      17,623 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 12,388 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 13,837 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +128,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 04:17:49 UTC
+ Last Updated on 31/07/2026 07:46:20 UTC
 <!--END_SECTION:waka-->
 
 -----
