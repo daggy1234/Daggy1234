@@ -69,9 +69,9 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C957%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,20 +79,40 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 30 mins       ████████████████████████░   95.08 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 5 hrs 29 mins       ██████████████████████░░░   88.19 % 
+C++                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 36 mins       ███████████████████████░░   90.16 % 
+Claude Code              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 42 mins (11.44%)
+
+✍️ 0 lines written by AI, 523 lines written by hand (0.0% AI-written)
+
+🔤 123,840 Input Tokens, 23,597 Output Tokens
+
+💵 $2.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 320 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +128,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 04:23:09 UTC
+ Last Updated on 15/08/2026 05:19:12 UTC
 <!--END_SECTION:waka-->
 
 -----
