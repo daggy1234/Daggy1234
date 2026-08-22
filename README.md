@@ -79,42 +79,39 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ████████████████░░░░░░░░░   62.13 % 
-C++                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Rust                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Rust                     23 mins             ███████████████░░░░░░░░░░   60.46 % 
+TOML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        ███████████████░░░░░░░░░░   61.35 % 
-Codex CLI                37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Claude Code              36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Codex CLI                37 mins             ████████████████████████░   94.80 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (42.54%)
+⏱ AI Coding Time: 38 mins (98.58%)
 
-✍️ 455 lines written by AI, 297 lines written by hand (60.51% AI-written)
+✍️ 455 lines written by AI, 16 lines written by hand (96.6% AI-written)
 
-🔤 554,205 Input Tokens, 87,935 Output Tokens
+🔤 430,365 Input Tokens, 64,338 Output Tokens
 
-💵 $15.98 Estimated AI Cost This Week
+💵 $13.43 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 GPT                      455 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.51% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 48.12% of changed lines were hand-edited
+🤖 AI-Driven — 96.6% of written lines came from AI
+📝 Concise Prompter — average 421 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +127,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 04:26:18 UTC
+ Last Updated on 22/08/2026 05:20:50 UTC
 <!--END_SECTION:waka-->
 
 -----
