@@ -79,44 +79,42 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Sublime Text Config      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Python                   17 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
+C++                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Sublime Text Config      10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Codex CLI                37 mins             ██████████░░░░░░░░░░░░░░░   39.95 % 
-Claude Code              21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Sublime Text             18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Zed                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Claude Code              21 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
+Sublime Text             18 mins             █████████░░░░░░░░░░░░░░░░   34.99 % 
+VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Zed                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (80.43%)
+⏱ AI Coding Time: 36 mins (67.21%)
 
-✍️ 842 lines written by AI, 197 lines written by hand (81.04% AI-written)
+✍️ 387 lines written by AI, 181 lines written by hand (68.13% AI-written)
 
-🔤 524,007 Input Tokens, 98,567 Output Tokens
+🔤 93,642 Input Tokens, 34,229 Output Tokens
 
-💵 $17.49 Estimated AI Cost This Week
+💵 $4.06 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-GPT                      455 lines           █████████████░░░░░░░░░░░░   53.85 % 
-Opus                     390 lines           ████████████░░░░░░░░░░░░░   46.15 % 
+Opus                     390 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.04% of written lines came from AI
-📚 Verbose Prompter — average 1,696 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.91% of changed lines were hand-edited
+🤖 AI-Driven — 68.13% of written lines came from AI
+📚 Verbose Prompter — average 2,462 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 31.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +130,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 02:48:16 UTC
+ Last Updated on 27/08/2026 13:37:02 UTC
 <!--END_SECTION:waka-->
 
 -----
