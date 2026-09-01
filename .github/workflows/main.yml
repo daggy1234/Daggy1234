@@ -5,12 +5,16 @@ on:
     # Runs at 12am IST
     - cron:  '0 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # pinned to the master tip of anmol098/waka-readme-stats
+      - uses: anmol098/waka-readme-stats@6a2ec228c5ab57e173ac03586902a0b06b8f9301
         with:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROJECTS: "False"
