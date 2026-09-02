@@ -79,42 +79,19 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   17 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
-C++                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Sublime Text Config      10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              21 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
-Sublime Text             18 mins             █████████░░░░░░░░░░░░░░░░   34.99 % 
-VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Zed                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (67.21%)
-
-✍️ 387 lines written by AI, 181 lines written by hand (68.13% AI-written)
-
-🔤 93,642 Input Tokens, 34,229 Output Tokens
-
-💵 $4.06 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Opus                     390 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 68.13% of written lines came from AI
-📚 Verbose Prompter — average 2,462 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 31.7% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +107,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 05:21:15 UTC
+ Last Updated on 02/09/2026 10:25:24 UTC
 <!--END_SECTION:waka-->
 
 -----
