@@ -69,9 +69,9 @@ https://dag.gy
 #### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C960%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,19 +79,41 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     29 mins             ████████████░░░░░░░░░░░░░   46.78 % 
+JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+CSS                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             ██████████████░░░░░░░░░░░   54.28 % 
+Codex CLI                28 mins             ███████████░░░░░░░░░░░░░░   45.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 1 min (97.84%)
+
+✍️ 1,730 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 410,278 Input Tokens, 111,919 Output Tokens
+
+💵 $45.37 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      1,243 lines         ██████████████████░░░░░░░   71.35 % 
+Codex-Cli                499 lines           ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 564 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +129,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 05:35:53 UTC
+ Last Updated on 07/09/2026 11:21:12 UTC
 <!--END_SECTION:waka-->
 
 -----
