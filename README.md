@@ -79,37 +79,37 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ████████████████░░░░░░░░░   62.42 % 
-HTML                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Other                    1 hr 21 mins        ██████████████░░░░░░░░░░░   55.63 % 
+HTML                     41 mins             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 50 mins       ███████████████████████░░   90.61 % 
-VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Codex CLI                2 hrs 8 mins        ██████████████████████░░░   87.87 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 💻 Operating System: 
-Mac                      3 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 25 mins (100.0%)
 
-✍️ 55 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 42 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,674,117 Input Tokens, 198,222 Output Tokens
+🔤 1,700,681 Input Tokens, 157,190 Output Tokens
 
-💵 $60.39 Estimated AI Cost This Week
+💵 $49.29 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 30 AI Prompts
+🧠 5 AI Sessions, 24 AI Prompts
 
-GPT                      56 lines            █████████████████████████   100.00 % 
+GPT                      43 lines            █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
+📝 Concise Prompter — average 102 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -127,7 +127,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 07:00:25 UTC
+ Last Updated on 25/09/2026 12:42:05 UTC
 <!--END_SECTION:waka-->
 
 -----
