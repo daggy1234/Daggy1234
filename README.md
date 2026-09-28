@@ -79,36 +79,34 @@ https://dag.gy
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        █████████████████████████   100.00 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 3 mins         ████████████████████░░░░░   78.19 % 
-VS Code                  17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Codex CLI                1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,165,632 Input Tokens, 93,882 Output Tokens
+🔤 16,123 Input Tokens, 2,408 Output Tokens
 
-💵 $41.13 Estimated AI Cost This Week
+💵 $0.11 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 113 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -125,7 +123,7 @@ Standard ML              2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 06:14:58 UTC
+ Last Updated on 28/09/2026 14:52:10 UTC
 <!--END_SECTION:waka-->
 
 -----
